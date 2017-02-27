@@ -1,19 +1,18 @@
-# Task 0
+# Task 0 (Paper Handout in Lab)
 
 ### Learning Outcomes
 
-
-| Outcome | Assessment |
-|----------------------|
-| - O1    | - A1       |
-| - O2    | - A2       |
-
-
+-----------------------------------  -------------------------------------
+_Outcome_                            _Assessment_
+-----------------------------------  -------------------------------------
+- O.0.1: You will understand how to  - A.0.1: You can run the next task
+        install and run Python
+-----------------------------------  -------------------------------------
 
 ### Introduction to Python as a Seismologic Tool
 
-The purpose of this task is to familiarize yourself withsome of the tools used in modern observational seismology.
-This tutorial assumes you are using a unix based system (Mac OS, Linux etc.), and have some knowledge of the command line. 
+The purpose of this task is to familiarize yourself with some of the tools used in modern observational seismology.
+This tutorial assumes you are using a unix based system (Mac OS, Linux etc.), and have some knowledge of the command line.
 Specifically, we will be learning the idioms of the modern python programming language, in the context of the obspy observational seismology package.
 
 *Cultural Note:* use of these idioms is known as "pythonic", one who understands them well is known as a "pythonista".
