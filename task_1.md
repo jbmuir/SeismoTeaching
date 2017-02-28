@@ -1,13 +1,25 @@
-# Task 0 (Paper Handout in Lab)
+# Task 1 (Paper Handout in Lab)
 
 ### Learning Outcomes
 
------------------------------------  -------------------------------------
-_Outcome_                            _Assessment_
------------------------------------  -------------------------------------
-- O.0.1: You will understand how to  - A.0.1: You can run the next task
-        install and run Python
------------------------------------  -------------------------------------
++-----------------------------------------+-----------------------------------------+
+|             _Outcome_                   |               _Assessment_              |
++=========================================+=========================================+
+|- O.1.1: You will understand how to      |  - A.1.1: You can run the lab task      |
+|         install and run Python          |                                         |
++-----------------------------------------+-----------------------------------------+
+|- O.1.2: You will be able to access      |  - A.1.2: You successfully generate the |
+|         seismic data using Obspy        |           plots specified in the lab    |
+|                                         |           notes                         |
++-----------------------------------------+-----------------------------------------+
+|- O.1.3: You can create a seismic        |  - A.1.3: ????????????                  |
+|         workflow using Obspy            |                                         |
+|                                         |                                         |
++-----------------------------------------+-----------------------------------------+
+|- O.1.4: You can integrate seismic       |  - A.1.4: ????????????                  |
+|         data into a geophysical         |                                         |
+|         framework                       |                                         |
++-----------------------------------------+-----------------------------------------+
 
 ### Introduction to Python as a Seismologic Tool
 
@@ -59,7 +71,7 @@ conda config --add channels conda-forge
 conda install obspy
 ```
 
-### Starting the Tutorial
+### Starting the Laboratory
 
 Now that you have set up your Python distribution to include Obspy, make a copy of the file task_1.ipynb and rename the copy to task_1_<yourname>.ipynb.
 You will be submitting the file as your homework for this week. To begin the tutorial, run
