@@ -12,12 +12,12 @@
 |         seismic data using Obspy        |           plots specified in the lab    |
 |                                         |           notes                         |
 +-----------------------------------------+-----------------------------------------+
-|- O.1.3: You can create a seismic        |  - A.1.3: ????????????                  |
-|         workflow using Obspy            |                                         |
+|- O.1.3: You can create a seismic        |  - A.1.3: You complete the freeform     |
+|         workflow using Obspy            |           task in lab 1                 |
 |                                         |                                         |
 +-----------------------------------------+-----------------------------------------+
-|- O.1.4: You can integrate seismic       |  - A.1.4: ????????????                  |
-|         data into a geophysical         |                                         |
+|- O.1.4: You can integrate seismic       |  - A.1.4: You can answer the qualitative|
+|         data into a geophysical         |           questions in lab 1            |
 |         framework                       |                                         |
 +-----------------------------------------+-----------------------------------------+
 
