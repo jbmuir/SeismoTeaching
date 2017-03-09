@@ -1,7 +1,7 @@
 # Task 1 (Paper Handout in Lab)
 
-### Learning Outcomes
-
+<!-- ### Learning Outcomes -->
+<!--
 +-----------------------------------------+-----------------------------------------+
 |             _Outcome_                   |               _Assessment_              |
 +=========================================+=========================================+
@@ -12,14 +12,27 @@
 |         seismic data using Obspy        |           plots specified in the lab    |
 |                                         |           notes                         |
 +-----------------------------------------+-----------------------------------------+
-|- O.1.3: You can create a seismic        |  - A.1.3: ????????????                  |
-|         workflow using Obspy            |                                         |
+|- O.1.3: You can create a seismic        |  - A.1.3: You complete the freeform     |
+|         workflow using Obspy            |           task in lab 1                 |
 |                                         |                                         |
 +-----------------------------------------+-----------------------------------------+
-|- O.1.4: You can integrate seismic       |  - A.1.4: ????????????                  |
-|         data into a geophysical         |                                         |
+|- O.1.4: You can integrate seismic       |  - A.1.4: You can answer the qualitative|
+|         data into a geophysical         |           questions in lab 1            |
 |         framework                       |                                         |
-+-----------------------------------------+-----------------------------------------+
++-----------------------------------------+-----------------------------------------+ -->
+
++-----------------------------------------------------------------------------------+
+|                                 _Learning Outcomes_                               |
++===================================================================================+
+| - You will understand how to install and run Python                               |
++-----------------------------------------------------------------------------------+
+| - You will be able to access seismic data using Obspy                             |
++-----------------------------------------------------------------------------------+
+| - You will create custom plots using the Matplotlib plotting API                  |
++-----------------------------------------------------------------------------------+
+| - You will integrate seismic data into a geophysical framework that explains the  |
+|   observed seismic features                                                       |
++-----------------------------------------------------------------------------------+
 
 ### Introduction to Python as a Seismologic Tool
 
